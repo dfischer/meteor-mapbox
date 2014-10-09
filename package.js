@@ -1,7 +1,7 @@
 Package.describe({
   summary: "Map box 2.1.2",
   version: "1.0.0",
-  git: " \* Fill me in! *\ "
+  git: "https://github.com/dfischer/meteor-mapbox"
 });
 
 Package.onUse(function(api) {
