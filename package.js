@@ -1,6 +1,6 @@
 Package.describe({
   summary: "Map box 2.1.2",
-  version: "1.0.0",
+  version: "1.0.1",
   git: "https://github.com/dfischer/meteor-mapbox"
 });
 
